@@ -1,2 +1,2 @@
 # Programing-Contest
-Please share your solution for each of the questions
+Please share your solution for the questions
